@@ -14,16 +14,16 @@ The code sets up the infrastructure for creating a cryptocurrency called KaseiCo
 
 
 ###  Evaluation Evidence:
-#### Screenshot of the successful compilation of the KaseiCoin contract:
+### Screenshot of the successful compilation of the KaseiCoin contract:
 
 <img width="1127" alt="Screenshot 2023-10-16 at 10 59 44 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/c42dc0bc-ad7f-4191-adf4-a55bf368df43">
 
 
-#### Screenshot of the successful compilation of the KaseiCoinCrowdsale contract:
+### Screenshot of the successful compilation of the KaseiCoinCrowdsale contract:
 
 <img width="1127" alt="Screenshot 2023-10-16 at 11 00 20 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/38fd44e2-728c-457e-8ed0-c55b20c3bcbf">
 
-#### Screenshot of the successful compilation of the KaseiCoinCrowdsaleDeployer contract:
+### Screenshot of the successful compilation of the KaseiCoinCrowdsaleDeployer contract:
 
 <img width="1127" alt="Screenshot 2023-10-16 at 11 01 05 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/15fd7520-6194-4d90-81c8-4602591a3211">
 
