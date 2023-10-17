@@ -11,9 +11,15 @@ In this analysis we are tasked with creating a cryptocurrency, named KaseiCoin, 
 
 
 
+
+
+
 * KaseiCoinCrowdsale Contract: The KaseiCoinCrowdsale contract is created, inheriting from OpenZeppelin's Crowdsale and MintedCrowdsale. This contract represents the crowdsale for KaseiCoin and is responsible for handling the sale of tokens.
 ### Screenshot of the successful compilation of the KaseiCoinCrowdsale contract:
 <img width="1127" alt="Screenshot 2023-10-16 at 11 00 20 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/38fd44e2-728c-457e-8ed0-c55b20c3bcbf">
+
+
+
 
 
 
