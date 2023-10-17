@@ -2,7 +2,7 @@
 
 # Challenge_21 Report
 ## Overview of the Analysis:
-In this we are tasked with creating a cryptocurrency, named KaseiCoin, and launching a crowdsale for people who are moving to Mars to convert their Earthling money to KaseiCoin. The code is implemented in Solidity and utilizes OpenZeppelin libraries for ERC-20 token creation and crowdsale functionality.
+In this analysis we are tasked with creating a cryptocurrency, named KaseiCoin, and launching a crowdsale for people who are moving to Mars to convert their Earthling money to KaseiCoin. The code is implemented in Solidity and utilizes OpenZeppelin libraries for ERC-20 token creation and crowdsale functionality.
 
 ### Methods Used:
 * KaseiCoin Contract: The KaseiCoin contract is created, inheriting functionality from OpenZeppelin's ERC20, ERC20Detailed, and ERC20Mintable contracts. These contracts provide the core functionality for creating an ERC-20 compliant token. The constructor initializes the token's details.
