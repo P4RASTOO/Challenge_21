@@ -11,3 +11,16 @@ In this we are tasked with creating a cryptocurrency, named KaseiCoin, and launc
 
 ### Summary:
 The code sets up the infrastructure for creating a cryptocurrency called KaseiCoin and conducting a crowdsale for potential Mars colonists to obtain KaseiCoins in exchange for Earthling money. It uses OpenZeppelin libraries to ensure the ERC-20 compliance of KaseiCoin and the functionality of the crowdsale. The process involves initializing the token, the crowdsale, and the deployment of the contracts. It also handles the minter role for the crowdsale.
+
+
+###  Evaluation Evidence:
+Screenshot of the successful compilation of the KaseiCoin contract:
+<img width="1127" alt="Screenshot 2023-10-16 at 10 59 44 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/c42dc0bc-ad7f-4191-adf4-a55bf368df43">
+
+
+Screenshot of the successful compilation of the KaseiCoinCrowdsale contract:
+<img width="1127" alt="Screenshot 2023-10-16 at 11 00 20 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/38fd44e2-728c-457e-8ed0-c55b20c3bcbf">
+
+Screenshot of the successful compilation of the KaseiCoinCrowdsaleDeployer contract:
+<img width="1127" alt="Screenshot 2023-10-16 at 11 01 05 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/15fd7520-6194-4d90-81c8-4602591a3211">
+
