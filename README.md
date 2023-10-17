@@ -1,1 +1,13 @@
-# Challenge_21
+<img width="540" alt="Screenshot 2023-10-16 at 10 41 09 PM" src="https://github.com/P4RASTOO/Challenge_21/assets/132952512/0a356ab8-e806-4c6e-872b-0a84158291cb">
+
+# Challenge_21 Report
+## Overview of the Analysis:
+In this we are tasked with creating a cryptocurrency, named KaseiCoin, and launching a crowdsale for people who are moving to Mars to convert their Earthling money to KaseiCoin. The code is implemented in Solidity and utilizes OpenZeppelin libraries for ERC-20 token creation and crowdsale functionality.
+
+### Methods Used:
+* KaseiCoin Contract: The KaseiCoin contract is created, inheriting functionality from OpenZeppelin's ERC20, ERC20Detailed, and ERC20Mintable contracts. These contracts provide the core functionality for creating an ERC-20 compliant token. The constructor initializes the token's details.
+* KaseiCoinCrowdsale Contract: The KaseiCoinCrowdsale contract is created, inheriting from OpenZeppelin's Crowdsale and MintedCrowdsale. This contract represents the crowdsale for KaseiCoin and is responsible for handling the sale of tokens.
+* KaseiCoinCrowdsaleDeployer Contract: The KaseiCoinCrowdsaleDeployer contract is responsible for deploying the KaseiCoin and KaseiCoinCrowdsale contracts. It creates an instance of the token and the crowdsale, associates them, and mints tokens for the crowdsale. After that, it renounces its minter role to secure the token's integrity.
+
+### Summary:
+The code sets up the infrastructure for creating a cryptocurrency called KaseiCoin and conducting a crowdsale for potential Mars colonists to obtain KaseiCoins in exchange for Earthling money. It uses OpenZeppelin libraries to ensure the ERC-20 compliance of KaseiCoin and the functionality of the crowdsale. The process involves initializing the token, the crowdsale, and the deployment of the contracts. It also handles the minter role for the crowdsale.
